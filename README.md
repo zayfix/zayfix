@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Théo from France :clipperton_island: <br><br>- 🔭 I’m working as a Junior FullStack Developer<br>- 📚 I'm currently learning Flutter and Swift</p>
+<p align="left">- 🔭 Currently working as a Junior FullStack Developer.<br>- 📚 Learning Flutter and Swift at the moment.</p>
 
 ###
 
@@ -60,14 +60,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zayfix&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/zayfix">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zayfix&count=3" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
