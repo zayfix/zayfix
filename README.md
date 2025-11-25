@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 Currently working as a Junior FullStack Developer.
+- 🔭 Currently working as a FullStack Developer.
 - 📚 Learning Flutter and Swift at the moment.
 
 ## Tech Stack
